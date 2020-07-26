@@ -1,7 +1,8 @@
-# Time-Series-Forecast-Maximum-Weed-Speed
-Maximum Wind Speed in Central New York: Auto Regressive Integrated Moving Average (ARIMA) Modeling <br />	
+# Time Series Forecast
+## Maximum Wind Speed in Central New York:<br />	
+## Auto Regressive Integrated Moving Average (ARIMA) Modeling <br />	
 
-  The objective of this project was to study a time series model 
+The objective of this project was to study a time series model 
 representative of maximum monthly wind speed in New York, and then to use 
 this time series model to predict the maximum monthly wind speed. 
   The data was collected monthly from January 2006 to December 2018, totally 156 
